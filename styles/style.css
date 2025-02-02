@@ -1,3 +1,13 @@
 
 
 
+.gradient-ctn{
+    background-image: linear-gradient(#ECCCFB,#F8CCFB);
+    max-height: 500px;
+   
+}
+.gradient-ctn2{
+    background-image: linear-gradient(#FFFAF4,#F9E091);
+    height: 500px;
+   
+}
